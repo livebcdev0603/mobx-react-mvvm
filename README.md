@@ -18,10 +18,6 @@ that works/scales from small to large use cases and yet simple to learn.
 other language to reduce boilerplate drastically. Typescript compiler can really protect your code base. *(Probably this will become the 
 strongest reason to choose typescript over plain javascript)*
 
-# Run/Edit in CodeSandbox
-
-Live On GitHub Page: https://gaplo917.github.io/mobx-react-mvvm-example
-
 | Language | CodeSandbox |
 | --- | --- |
 | Javascript + React Hooks | [![Edit mobx-react-price-feed-mvvm-example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/livebcdev0603/mobx-react-mvvm/tree/master/) |
